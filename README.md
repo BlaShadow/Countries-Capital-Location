@@ -7,8 +7,8 @@ All countries's capital and his location
 **Data Structure**
 ```json
 {
-  "country": string,
-  "capital": string,
+  "country": "",
+  "capital": "",
   "latitude": 0.0,
   "longitude": 0.0,
 }
